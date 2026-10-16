@@ -1,5 +1,3 @@
-# cracking-the-happiness-code
-
 # Cracking the Happiness Code by Numbers
 
 Can happiness be defined by data?
@@ -35,10 +33,6 @@ People's perception on unethical practices and unfair treatments in the field of
 ### Social Support
 
 Having a stable network, including getting help from friends, relatives, and communities.
-
-## Data Visualization
-
-Using the datasets, I created infographics to analyze happiness level by seeing the correlation between different variables.
 
 
 
