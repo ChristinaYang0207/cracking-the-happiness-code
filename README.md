@@ -40,27 +40,7 @@ Having a stable network, including getting help from friends, relatives, and com
 
 Using the datasets, I created infographics to analyze happiness level by seeing the correlation between different variables.
 
-!image.png
 
-![](attachment:2756bfb2-cd8c-43b9-9235-9a1a3ff8561a:2756bfb2-cd8c-43b9-9235-9a1a3ff8561a.png)
-
-![](attachment:cd9ac726-2ac4-4186-ad40-709802032ca7:cd9ac726-2ac4-4186-ad40-709802032ca7.png)
-
-![](attachment:635c10c7-26e1-4ca2-98c1-2da6f70ba382:635c10c7-26e1-4ca2-98c1-2da6f70ba382.png)
-
-![](attachment:dd5b40aa-804d-4f78-9c25-f07841fe8ce1:dd5b40aa-804d-4f78-9c25-f07841fe8ce1.png)
-
-![](attachment:18c50ff8-4fa8-4503-8462-dc4735e3b1af:18c50ff8-4fa8-4503-8462-dc4735e3b1af.png)
-
-![](attachment:47ba8662-37e5-4c00-9d4d-08761643d106:47ba8662-37e5-4c00-9d4d-08761643d106.png)
-
-![](attachment:f38530b3-3b76-47fa-9bda-c926f17f06dc:f38530b3-3b76-47fa-9bda-c926f17f06dc.png)
-
-![](attachment:9c58d61b-1b48-4f03-8bb7-e046b7f5a2a0:9c58d61b-1b48-4f03-8bb7-e046b7f5a2a0.png)
-
-![](attachment:99a63b79-daf9-4a70-9ba6-e677c0141cf8:99a63b79-daf9-4a70-9ba6-e677c0141cf8.png)
-
-![](attachment:0c3a225f-2354-4e3f-9571-3a08bb16d427:0c3a225f-2354-4e3f-9571-3a08bb16d427.png)
 
 ## Findings
 
